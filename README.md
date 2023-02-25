@@ -1,6 +1,4 @@
 # Data ETL Using Polars
-### Datacamp Exercise
-#### This is a mocktest for a Datacamp Certification
 
 Polars is a new library that aims to dethrone Pandas. To read more:
  - https://medium.com/artificial-corner/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f
